@@ -3,8 +3,5 @@
 
 ### Hi there 👋, I’m Cheng Jinbao
 
-- 👨‍💻 I'm a Full Stack Developer
+- 👨‍💻 I'm a full stack developer
 - 🔭 I’m currently working on [metacode](https://github.com/cjbi/metacode)
-
-🔗 http://metacode.wetech.tech
-
