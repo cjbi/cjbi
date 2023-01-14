@@ -4,4 +4,4 @@
 ### Hi there 👋, I’m Cheng Jinbao
 
 - 👨‍💻 I'm a full stack developer
-- 🔭 I’m currently working on [metacode](https://github.com/cjbi/metacode)
+- 🔭 I’m currently working on [metacode](https://github.com/metacode-project)
