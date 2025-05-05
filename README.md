@@ -1,26 +1,26 @@
-<h1> cjbi 👨‍💻 &nbsp;&nbsp; ( &nbsp;
-<a href="mailto:cjbi@outlook.com" align="center">
-  <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" />
-</a>
-cjbi@outlook.com
-&nbsp; )
-</h1>
+# cjbi 👨‍💻
 
-> <u>*Work in Nanjing*</u>
-
-
-Hi! 👋 I'm Cheng jinbao! I am **a fan of the <img alt="Java" src="https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=java&logoColor=white" /> java technology stack and a code perfectionist**, core team of [flexmodel-projects](https://github.com/flexmodel-projects), author of[@cjbi](https://github.com/cjbi)
-
-back-end developers who like infrastructure.
+📍 Nanjing, China  
+✉️ [cjbi@outlook.com](mailto:cjbi@outlook.com)
 
 ---
 
-<br />
+Hi there! 👋 I’m **cjbi**, a dedicated back-end engineer with a passion for the **Java technology stack** and a keen eye for code perfection. I’m part of the core team of the [flexmodel-projects](https://github.com/flexmodel-projects) and the author of the [@cjbi](https://github.com/cjbi) repository.
 
-<a href="https://github.com/cjbi">
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=cjbi&theme=transparent"/>
-</a>
+---
 
-<br />
+## 🔧 Tech & Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjbi)](https://github.com/anuraghazra/github-readme-stats)
+- **Languages:** Java, TypeScript, SQL  
+- **Frameworks & Libraries:** Spring Boot, Guava, React.js, Vue.js, Ant Design  
+- **Infrastructure:** Docker, Kubernetes, CI/CD pipelines  
+- **Databases:** MySQL, PostgreSQL, Redis  
+- **Others:** Git, Linux, RESTful API design, Microservices  
+
+---
+
+## 📈 GitHub Stats
+
+![cjbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjbi&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cjbi&layout=compact&theme=transparent)
