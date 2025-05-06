@@ -12,8 +12,8 @@ Hi there! 👋 I’m **cjbi**, a dedicated back-end engineer with a passion for 
 ## 🔧 Tech & Tools
 
 - **Languages:** Java, TypeScript, SQL  
-- **Frameworks & Libraries:** Spring Boot, Quarkus, Vert.x, Guava, React.js, Vue.js, Ant Design  
-- **Infrastructure:** Docker, Kubernetes, CI/CD pipelines  
+- **Frameworks & Libraries:** Spring Boot, Quarkus, Vert.x, Guava, Nest.js, React.js, Vue.js, Ant Design  
+- **Infrastructure:** Docker, Kubernetes, Node.js, CI/CD pipelines  
 - **Databases:** MySQL, PostgreSQL, Redis  
 - **Others:** Git, Linux, RESTful API design, Microservices  
 
