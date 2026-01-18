@@ -5,7 +5,7 @@
 
 ---
 
-Hi there! 👋 I’m **cjbi**, a dedicated back-end engineer with a passion for the **Java technology stack** and a keen eye for code perfection. I’m part of the core team of the [flexmodel-projects](https://github.com/flexmodel-projects) and the author of the [@cjbi](https://github.com/cjbi) repository.
+Hi there! 👋 I’m **cjbi**, a dedicated back-end engineer with a passion for the **Java technology stack** and a keen eye for code perfection. I’m part of the core team of the [flexmodel-projects](https://github.com/flexmodel-dev) and the author of the [@cjbi](https://github.com/cjbi) repository.
 
 ---
 
